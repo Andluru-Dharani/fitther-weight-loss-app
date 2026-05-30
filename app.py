@@ -1,4 +1,3 @@
-```python
 # app.py - Streamlit Web Version (Access via browser link)
 # Deploy on Streamlit Cloud for free via GitHub
 
